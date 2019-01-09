@@ -2,7 +2,6 @@
 package java_design_pattern;
 
 public class Main {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// hongGilDong 이라는 Professor Class 변수를 만든다.
