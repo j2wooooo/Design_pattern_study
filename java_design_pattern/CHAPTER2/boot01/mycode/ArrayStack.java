@@ -67,7 +67,7 @@ public class ArrayStack{
 		{
 			// itemArray[top--];
 			top--;
-			return itemArray.remove(0);
+			return itemArray.remove(top+1);
 		}
 	}
 	
@@ -79,7 +79,7 @@ public class ArrayStack{
 		}
 		else {
 			// itemArray[top];
-			return itemArray.get(0);
+			return itemArray.get(top);
 		}
 	}
 }
