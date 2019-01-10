@@ -1,5 +1,4 @@
-# CHAPTER2 :: 객체지향 원리
-<br />
+# CHAPTER2 :: 객체지향 원리<br />
 
 ### 2.1 추상화
 
@@ -20,7 +19,7 @@
 ***
 <br />
 boot01 : 배열에서 ArrayList로 변경하여 코드 작성
-
+<br />
 boot02 : boot01에 적합한 Main 메서드 작성
 
 boot03 : 무결성 조건
