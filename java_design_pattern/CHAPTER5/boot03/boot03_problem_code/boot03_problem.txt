@@ -1,0 +1,2 @@
+1. 수직으로 공이 움직이는 VerticalMoveStrategy 클래스를 완성하라.
+2. 대각선 방향으로 공이 움직이는 DiagonalMoveStrategy 클래스를 완성하라.
